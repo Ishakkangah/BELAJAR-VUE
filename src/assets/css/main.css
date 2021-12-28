@@ -1,0 +1,39 @@
+#app {
+   font-family: "Montserrat", sans-serif;
+}
+.router-link-exact-active {
+   font-weight: bold;
+}
+
+.btn-success {
+   background-color: #2f9b5c;
+}
+.badge-success {
+   background-color: #2f9b5c;
+}
+
+.card-product {
+   border-radius: 20px;
+}
+
+.breadcrumb {
+   background-color: transparent;
+   padding: 0;
+   margin-bottom: 30px;
+}
+
+.active {
+   font-weight: bold;
+}
+
+.img-fluid {
+   border-radius: 8px;
+}
+
+.gambarkeranjang {
+   object-fit: cover;
+   object-position: center;
+   height: 60px;
+   width: 90px;
+   border-radius: 8px;
+}
